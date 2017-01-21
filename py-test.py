@@ -2,5 +2,12 @@ print("hey")
 
 print("igor")
 
+a = 1
+b = 2
 
-2+3 
+c=a+b
+
+print (c)
+
+
+
