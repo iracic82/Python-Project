@@ -15,6 +15,7 @@ k=d+c
 
 print(k)
 
+print('alo')
 
 
-print('igor')
+
